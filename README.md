@@ -1,11 +1,11 @@
 # basic-api-server
 
 ## Author: Omar Ewies
-* [Tests Report]()
+* [Tests Report](https://github.com/oebitw/basic-api-server/actions)
 
-* [Heroku Deployment]()
+* [Heroku Deployment](https://oebitw-basic-api.herokuapp.com/)
 
-* [Pull Request]()
+* [Pull Request](https://github.com/oebitw/basic-api-server/pull/1)
 
 ## Setup
 
@@ -58,5 +58,5 @@
 
 ## UML
 
-![]()
+![](./img/uml.jpg)
 
